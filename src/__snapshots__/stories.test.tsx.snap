@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Button Disabled 1`] = `
+<button
+  className="sc-bdDrbm gkKrPN"
+  disabled={true}
+  size="small"
+  variant="primary"
+>
+  Disabled
+</button>
+`;
+
+exports[`Storyshots Button Primary 1`] = `
+<button
+  className="sc-bdDrbm gkKrPN"
+  size="small"
+  variant="primary"
+>
+  Button
+</button>
+`;
+
+exports[`Storyshots Dropdown Primary Dropdown 1`] = `
+<div
+  className="sc-gtcAbF gpdeLw"
+>
+  <button
+    className="sc-dkXrac bGRgap"
+    onClick={[Function]}
+  >
+    Select an option
+  </button>
+</div>
+`;
+
+exports[`Storyshots Input Primary Input 1`] = `
+<input
+  className="sc-jSprwV jkERKz"
+  isValid={true}
+/>
+`;
+
+exports[`Storyshots Modal Modal Primary 1`] = `
+<div
+  className="sc-gKkivs hePEwL"
+>
+  <div
+    className="sc-iCEALv eNFvCF"
+  >
+    <button
+      className="sc-fuzrJS cibVqS"
+    >
+      x
+    </button>
+    <div>
+      <h1>
+        Hello from MyComponent!
+      </h1>
+      <p>
+        This is a sample component.
+      </p>
+    </div>
+  </div>
+</div>
+`;
