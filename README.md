@@ -57,3 +57,11 @@ Unit tests have been written for at least one component in this library. The tes
 ```
 npm test
 ```
+
+## Run Storybook
+
+To run Storybook in your browser, run the following command:
+
+```
+npm run storybook
+```
